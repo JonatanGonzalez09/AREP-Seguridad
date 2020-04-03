@@ -1,0 +1,5 @@
+edu.escuelaing.arep.app
+edu.escuelaing.arep.app.controller
+edu.escuelaing.arep.app.model
+edu.escuelaing.arep.app.persistence
+edu.escuelaing.arep.app.security
